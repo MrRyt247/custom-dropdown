@@ -4,7 +4,7 @@ A modern, accessible dropdown component built with Svelte 5 and TypeScript. This
 
 ## URLs
 - [Live URL](https://vercel.com/mrryt247s-projects/svelte-custom-dropdown/CRuNaU6PHBQa7n7YgWXB6PAhpipg)
-- [Project URL](https://github.com/MrRyt247/custom-dropdown)
+- [Project URL](https://roadmap.sh/projects/custom-dropdown)
 
 
 ## Features
